@@ -28,5 +28,3 @@ The processor is implemented using a modular approach. Each module performs a sp
 
 This architecture demonstrates the instruction fetch, decode, execute, memory access, and write-back stages of a typical RISC processor.
 
-## 📁 Folder Structure (To Be Updated)
-Phase-One-Project---RISC-PROCESSOR/ ├── README.md ├── src/ # Verilog source files ├── testbench/ # Testbench modules ├── simulation/ # Waveform results and outputs └── docs/ # Project report, PPTs, and documentation
