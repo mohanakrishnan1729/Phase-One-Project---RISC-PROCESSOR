@@ -27,4 +27,3 @@ The processor is implemented using a modular approach. Each module performs a sp
 - **Data Memory** – Handles load and store operations
 
 This architecture demonstrates the instruction fetch, decode, execute, memory access, and write-back stages of a typical RISC processor.
-
